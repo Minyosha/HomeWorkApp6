@@ -24,5 +24,6 @@ public class Main {
         System.out.println("Всего животных: " + Animal.count);
         System.out.println("Всего котов: " + Cat.count);
         System.out.println("Всего собак: " + Dog.count);
+
     }
 }
